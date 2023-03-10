@@ -1,0 +1,6 @@
+conda activate env_DeepLearning_PyTorch-1.13.1
+E:
+cd E:\VSLibyolo\yolov5-master
+python detect.py --source=data/video/test3.mp4 --weights=weights/last2.pt
+
+
